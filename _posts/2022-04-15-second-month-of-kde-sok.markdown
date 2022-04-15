@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Second month of KDE SoK 2022"
-date: 2022-04-15 20:40:00 +0100
+date: 2022-04-15 19:40:00 +0100
 categories: kde sok
 ---
 
